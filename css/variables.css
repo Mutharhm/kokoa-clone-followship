@@ -1,4 +1,12 @@
 :root{
     --yellow:#fae100;
     --tomato:tomato;
+    /*--friends:<i class="fa-thin fa-people fa-lg"></i>;
+    --friends_full:<i class="fa-solid fa-people fa-lg"></i>;
+    --chat:<i class="fa-regular fa-comment fa-lg"></i>;
+    --chat_full:<i class="fa-solid fa-comment fa-lg"></i>;
+    --search:<i class="fa-light fa-magnifying-glass fa-lg"></i>;
+    --search_full:<i class="fa-solid fa-magnifying-glass fa-lg"></i>;
+    --others:<i class="fa-thin fa-ellipsis-stroke fa-lg"></i>;
+    --others_full:<i class="fa-solid fa-ellipsis fa-lg"></i>;*/
 }
