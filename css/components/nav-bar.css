@@ -16,4 +16,31 @@
     display: flex;
     justify-content:  center;
     color: #2e363e;
+    position: relative;
+}
+.nav__notify {
+    background-color: tomato;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    color: white;
+    font-weight: 600;
+    position: absolute;
+    right: 25%;
+    top: 15%;
+}
+.nav__notify-config {
+    background-color: tomato;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 8px;
+    height: 8px;
+    border-radius: 100%;
+    position: absolute;
+    right: 30%;
+    top: 25%;
 }
